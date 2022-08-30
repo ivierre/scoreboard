@@ -1,0 +1,55 @@
+
+
+body {
+    margin: 0;
+    text-align: center;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 575px;
+    height: 385px;
+    background-color: #1B244A;
+    color: white;
+    margin: 40px auto;
+    border-radius: 10px;
+    border: 6px solid #9AABD8;
+    box-shadow: 2px 2px black;
+    
+}
+
+h3 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    
+}
+
+.score {
+    background-color: #080001;
+    width: 155px;
+    color: #F94F6D;
+    margin: 20px;
+    font-size: 90px;
+    height: 120px;
+    
+}
+
+button {
+    background-color: #1B244A;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: #9AABD8;
+    width: 45px;
+    height: 45px;
+    margin: 14px 5px 0 5px
+}
+
+h2 {
+    padding-top: 16px;
+}
+
+#reset {
+   
+}
